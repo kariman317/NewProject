@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ITI Courses\\MVC\\Project\\Restratant\\Restratant\\Restratant.csproj": {}
+    "D:\\ITI\\MVC\\project\\NewProject\\Restratant.csproj": {}
   },
   "projects": {
-    "E:\\ITI Courses\\MVC\\Project\\Restratant\\Restratant\\Restratant.csproj": {
+    "D:\\ITI\\MVC\\project\\NewProject\\Restratant.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ITI Courses\\MVC\\Project\\Restratant\\Restratant\\Restratant.csproj",
+        "projectUniqueName": "D:\\ITI\\MVC\\project\\NewProject\\Restratant.csproj",
         "projectName": "Restratant",
-        "projectPath": "E:\\ITI Courses\\MVC\\Project\\Restratant\\Restratant\\Restratant.csproj",
-        "packagesPath": "C:\\Users\\All In One\\.nuget\\packages\\",
-        "outputPath": "E:\\ITI Courses\\MVC\\Project\\Restratant\\Restratant\\obj\\",
+        "projectPath": "D:\\ITI\\MVC\\project\\NewProject\\Restratant.csproj",
+        "packagesPath": "C:\\Users\\AhmedHesham\\.nuget\\packages\\",
+        "outputPath": "D:\\ITI\\MVC\\project\\NewProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\All In One\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AhmedHesham\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,27 +40,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[5.0.15, )"
-            },
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
               "version": "[5.0.14, )"
-            },
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[5.0.15, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[5.0.15, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[5.0.15, )"
             }
           },
           "imports": [
@@ -81,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
